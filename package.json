@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/interface",
-  "description": "Uniswap Interface",
-  "homepage": ".",
+  "name": "@piedex/interface",
+  "description": "Piedex Interface",
+  "homepage": "https://willvlad.github.io/piedex",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.2.0",
