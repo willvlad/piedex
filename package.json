@@ -106,7 +106,8 @@
     "workbox-expiration": "^6.1.0",
     "workbox-precaching": "^6.1.0",
     "workbox-routing": "^6.1.0",
-    "workbox-strategies": "^6.1.0"
+    "workbox-strategies": "^6.1.0",
+    "gh-pages": "^3.2.1"
   },
   "resolutions": {
     "@walletconnect/web3-provider": "1.4.2-rc.2"
@@ -141,8 +142,5 @@
       "last 1 safari version"
     ]
   },
-  "license": "GPL-3.0-or-later",
-  "dependencies": {
-    "gh-pages": "^3.2.1"
-  }
+  "license": "GPL-3.0-or-later"
 }
